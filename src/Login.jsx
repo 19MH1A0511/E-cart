@@ -11,6 +11,8 @@ const Login = () => {
                     <input type="text" placeholder='enter username' />
                     <h1>Password</h1>
                     <input type="Password" name=''  />
+                    <h1>Password</h1>
+                    <input type="Password" name=''  />
                 </div>
             </from>
         </div>
